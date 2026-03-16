@@ -1,9 +1,7 @@
-## Data Scraping Projects (Python)
-
-Python project demonstrating web scraping and API data collection.
+## Data Scraping (Python)
 
 ### Overview
-Built scripts to extract data from websites and APIs, convert the data into structured datasets, and export them for further analysis.
+Developed a Python project to scrape web and API data, cleaning and structuring it with Pandas, and exporting datasets for further analysis.
 
 ### Workflow & Tools
 - Used **Requests** to retrieve website and API data  
